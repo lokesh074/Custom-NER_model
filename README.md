@@ -12,6 +12,7 @@ This model is made for only classifying person & organisation in a text
 
 # Classifying Specific entities using Pre-Trained model
 Used pre trained model <br>
+**en_core_web_lg** is the trained pipeline for the English language. It is optimized for the CPU and contains components like ok2vec, tagger, parser, senter, ner, attribute_ruler, lemmatizer.<br>
 but we have to do some text preprocessing to prevent missclassification
 
 ![Screenshot (647)](https://user-images.githubusercontent.com/91384498/212624582-13892fc9-12d1-4477-ae15-12db2cb77ebf.png)
