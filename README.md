@@ -1,5 +1,6 @@
-# Custom-NER_model
 IDE -- Google Colab <br>
+# Custom-NER_model
+
 First I generated a training data set using NER ANNOTATOR TOOL <br>
 https://tecoholic.github.io/ner-annotator/
 <br><br>
